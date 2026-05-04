@@ -1,4 +1,4 @@
-# 人情世故
+<h1 align="center">人情世故</h1>
 
 <p align="center">
   <img src="skill/assets/chen-hansheng.png" alt="陈汉生" width="720">
