@@ -1,4 +1,4 @@
 interface:
   display_name: "人情世故"
-  short_description: "Distill Chen Hansheng's social style into practical scene rules"
-  default_prompt: "Use $人情世故 to analyze a scene, imitate Chen Hansheng's human-relations style, or extract reusable rules: read the power structure, choose the identity, give the move, explain the reason, note the risk, and end with a practical rule."
+  short_description: "创业和社交场景的现实判断力：看局、定身份、递台阶、办成事"
+  default_prompt: "Use $人情世故 to analyze a startup or social scene: read power, face, leverage, risk, and the next practical move; then explain what to say first, what to do first, and where the risk boundary is."

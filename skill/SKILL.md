@@ -1,11 +1,11 @@
 ---
 name: 人情世故
-description: Distill, imitate, and apply Chen Hansheng's human-relations and social-dynamics style from 《我真没想重生啊》; use when the user asks for 陈汉生的人情世故、处事风格、社交策略、饭局/求人/亲戚局/同学局/商务谈判处理方式, or wants the character turned into a practical behavior model.
+description: A practical social-dynamics skill distilled from Chen Hansheng's decision style; use for 创业早期、地推、BD、求人、谈合作、借资源、饭局、客户局、同学局、亲戚局, especially when the user needs to see power, face, leverage, risk, and the next practical move.
 ---
 
 # 人情世故
 
-把陈汉生当成一套处事模型，不当成剧情总结。
+把陈汉生当成一套现实场景可用的处事模型，不当成剧情总结。
 
 ## 先读什么
 
@@ -16,6 +16,8 @@ description: Distill, imitate, and apply Chen Hansheng's human-relations and soc
 ## 什么时候用
 
 - 用户要学陈汉升的人情世故、处事风格、控场、圆场、递台阶、护短、借势、谈利益。
+- 用户在创业早期要地推、BD、求人、谈合作、借资源、稳饭局、处理客户局。
+- 用户在普通社交里要处理饭局、同学局、亲戚局、公开夸奖、拒绝、求助和尴尬场面。
 - 用户要把某个场景改写成“陈汉生会怎么处理”。
 - 用户要从小说里抽出可执行的社交规则，而不是读后感。
 
