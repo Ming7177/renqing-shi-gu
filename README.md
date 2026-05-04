@@ -101,6 +101,8 @@
 | 同学局被人抬高 | 谦虚一下 | 看是否会伤旁人，必要时把自己拉回普通人 |
 | 求权力方办事被拖 | 说明截止时间，请尽快处理 | 没 leverage 时不嘴上催，先变成眼熟又懂事的人 |
 | 亲属争执要你旁听 | 留下劝架显得懂事 | 疏不间亲，外人先撤，别变成未来裁判和证人 |
+| 单方面对人好不被珍惜 | 继续加码真诚 | 别只做供给者，要让对方也投入时间、选择或资源 |
+| 喜事场有人撑不住 | 和我不熟，不管 | 先看场面价值，低成本稳主家就上 |
 | 亲戚局被问收入 | 含糊带过 | 给长辈面子，也不让同辈被比较 |
 
 ## 适合谁
@@ -168,6 +170,8 @@ $人情世故
 - [饭桌敬酒：如何把尴尬转成赞美](examples/dinner-toast.md)
 - [生日局买单：先判断能不能买到局](examples/birthday-bill.md)
 - [亲属争执：为什么外人要先撤](examples/family-dispute-exit.md)
+- [关系投入：为什么单方面对人好不一定被珍惜](examples/relationship-investment.md)
+- [场面帮忙：婚礼上主家亲属被灌酒要不要挡](examples/help-with-scene-value.md)
 - [书记拖章：为什么行动比催促更有效](examples/slow-approval-flow.md)
 - [评测题：看它能不能真办事](evals/scenario-tests.md)
 
@@ -190,6 +194,8 @@ examples/
   campus-registration.md
   dinner-toast.md
   family-dispute-exit.md
+  relationship-investment.md
+  help-with-scene-value.md
   slow-approval-flow.md
 evals/
   scenario-tests.md
