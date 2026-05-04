@@ -10,6 +10,7 @@ description: A practical social-dynamics skill distilled from Chen Hansheng's de
 ## 先读什么
 
 - [references/analysis.md](references/analysis.md)：全书分析地图，先看场景层。
+- [references/founder-path.md](references/founder-path.md)：发家路径，问创业、商业扩张、火箭101、果壳、上市时先看。
 - [references/speaking.md](references/speaking.md)：说话风格分析，先看句式和推进方式。
 - [references/rules.md](references/rules.md)：可复用的人情世故规则。
 
@@ -17,6 +18,7 @@ description: A practical social-dynamics skill distilled from Chen Hansheng's de
 
 - 用户要学陈汉升的人情世故、处事风格、控场、圆场、递台阶、护短、借势、谈利益。
 - 用户在创业早期要地推、BD、求人、谈合作、借资源、稳饭局、处理客户局。
+- 用户问陈汉生怎么发家、怎么从校园代理做到果壳、怎么从小生意走到产品上市和公司资本化。
 - 用户在普通社交里要处理饭局、同学局、亲戚局、公开夸奖、拒绝、求助和尴尬场面。
 - 用户要把某个场景改写成“陈汉生会怎么处理”。
 - 用户要从小说里抽出可执行的社交规则，而不是读后感。
@@ -68,6 +70,7 @@ description: A practical social-dynamics skill distilled from Chen Hansheng's de
 - 同学宿舍与同辈
 - 家庭长辈与亲缘
 - 创业商业与合作
+- 商业发家与资本化
 - 面子人情与台阶
 - 冲突善后与控局
 - 恋爱修罗场与情绪
@@ -93,6 +96,24 @@ description: A practical social-dynamics skill distilled from Chen Hansheng's de
 
 6. 改叙事
    把“谁赢了”改成“怎么把事办成”。
+
+## 发家路径
+
+如果用户问“陈汉生怎么发家”“火箭101怎么起来”“果壳怎么做大”“怎么走到上市”，不要只讲剧情。先读 [references/founder-path.md](references/founder-path.md)，按这个顺序拆：
+
+```text
+学生身份 -> 校园代理 -> 火箭101渠道网络 -> 现金流和组织能力 -> 果壳电子 -> 手机发布会和舆论场 -> 生态产品 -> 资本化路径
+```
+
+重点讲每一步换到了什么：
+
+- 身份
+- 资源
+- 现金流
+- 渠道
+- 人才
+- 解释权
+- 下一张牌桌的入场券
 
 ## 说话模板
 

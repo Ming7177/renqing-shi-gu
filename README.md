@@ -68,7 +68,7 @@
 
 > 没有学姐，本来父母也要来的，车票都买好了。家里临时有事走不开，我就先自己过来了。后面流程还得麻烦你带一下。
 
-## 两条主线
+## 三条主线
 
 ### 创业线
 
@@ -79,6 +79,17 @@
 | 求人介绍资源 | 表达诚意和感谢 | 先让对方有转介绍的理由和台阶 |
 | 被客户压价 | 强调成本和价值 | 先稳住对方身份，再重设比较标准 |
 | 现金流紧张要延期 | 解释困难 | 给对方安全感、时间点和补偿 |
+
+### 发家线
+
+| 阶段 | 表面动作 | 真正换到的东西 |
+| --- | --- | --- |
+| 班长和学生会 | 做校园组织事务 | 合法身份、老师信任、组织入口 |
+| 深通校园代理 | 抢快递总代理 | 低成本现金流、校园场景、替换标准 |
+| 火箭101 | 做校园快递网络 | 渠道、学生队伍、跨校复制能力 |
+| 果壳电子 | 做MP4和手机 | 品牌、产品、供应链、年轻用户心智 |
+| 手机发布会 | 推产品上市 | 舆论场、粉丝、解释权、市场验证 |
+| 果壳网络和收购 | 做生态产品 | 独立估值、资本化路径、上市想象 |
 
 ### 社交线
 
@@ -150,6 +161,7 @@ $人情世故
 
 - [创业地推：如何先让老板愿意听 30 秒](examples/field-sales.md)
 - [商务合作：没案例时怎么争取试点](examples/founder-bd.md)
+- [发家路径：从校园代理到果壳资本化](skill/references/founder-path.md)
 - [新生报到：如何灭掉无收益聚光灯](examples/campus-registration.md)
 - [饭桌敬酒：如何把尴尬转成赞美](examples/dinner-toast.md)
 - [书记拖章：为什么行动比催促更有效](examples/slow-approval-flow.md)
@@ -164,6 +176,7 @@ skill/
   assets/chen-hansheng.png
   assets/chen-hansheng-ending.jpg
   references/analysis.md
+  references/founder-path.md
   references/rules.md
   references/speaking.md
 examples/
