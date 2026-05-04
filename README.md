@@ -97,6 +97,7 @@
 | --- | --- | --- |
 | 当众被夸 | 谢谢夸奖，我会继续努力 | 先算这束光有没有利；无利就灭光 |
 | 饭桌敬酒遇到对方不能喝 | 那就以茶代酒吧 | 先保女主人，再转给合适家人，顺手夸人 |
+| 饭局账单看向你 | 该不该AA | 先算这顿钱能不能买到局；能买就接场，不能买只协调 |
 | 同学局被人抬高 | 谦虚一下 | 看是否会伤旁人，必要时把自己拉回普通人 |
 | 求权力方办事被拖 | 说明截止时间，请尽快处理 | 没 leverage 时不嘴上催，先变成眼熟又懂事的人 |
 | 亲戚局被问收入 | 含糊带过 | 给长辈面子，也不让同辈被比较 |
@@ -164,6 +165,7 @@ $人情世故
 - [发家路径：从校园代理到果壳资本化](skill/references/founder-path.md)
 - [新生报到：如何灭掉无收益聚光灯](examples/campus-registration.md)
 - [饭桌敬酒：如何把尴尬转成赞美](examples/dinner-toast.md)
+- [生日局买单：先判断能不能买到局](examples/birthday-bill.md)
 - [书记拖章：为什么行动比催促更有效](examples/slow-approval-flow.md)
 - [评测题：看它能不能真办事](evals/scenario-tests.md)
 
@@ -182,6 +184,7 @@ skill/
 examples/
   field-sales.md
   founder-bd.md
+  birthday-bill.md
   campus-registration.md
   dinner-toast.md
   slow-approval-flow.md
