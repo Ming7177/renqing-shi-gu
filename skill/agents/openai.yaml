@@ -1,0 +1,4 @@
+interface:
+  display_name: "陈汉生人情世故版"
+  short_description: "Distill Chen Hansheng's social style into practical scene rules"
+  default_prompt: "Use $chen-hansheng-social to analyze a scene, imitate Chen Hansheng's human-relations style, or extract reusable rules: read the power structure, choose the identity, give the move, explain the reason, note the risk, and end with a practical rule."

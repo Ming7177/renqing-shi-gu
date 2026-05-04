@@ -1,0 +1,12 @@
+# Source novel and derived bulky local artifacts
+*.txt
+*小说*
+*校对版*
+*全本*
+chen_hansheng_social_candidates.csv
+
+# Local runtime / editor
+.omx/
+.DS_Store
+Thumbs.db
+
