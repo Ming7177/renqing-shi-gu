@@ -162,6 +162,7 @@ skill/
   SKILL.md
   agents/openai.yaml
   assets/chen-hansheng.png
+  assets/chen-hansheng-ending.jpg
   references/analysis.md
   references/rules.md
   references/speaking.md
@@ -197,3 +198,7 @@ docs/
 这个仓库不包含小说原文、不包含章节正文、不包含长段摘录，也不试图替代阅读原书。
 
 这里开源的是读完之后抽出来的行为模型、原创场景和评测方法。
+
+<p align="center">
+  <img src="skill/assets/chen-hansheng-ending.jpg" alt="陈汉生" width="520">
+</p>
