@@ -1,9 +1,9 @@
 ---
-name: chen-hansheng-social
+name: 人情世故
 description: Distill, imitate, and apply Chen Hansheng's human-relations and social-dynamics style from 《我真没想重生啊》; use when the user asks for 陈汉生的人情世故、处事风格、社交策略、饭局/求人/亲戚局/同学局/商务谈判处理方式, or wants the character turned into a practical behavior model.
 ---
 
-# 陈汉生人情世故蒸馏
+# 人情世故
 
 把陈汉生当成一套处事模型，不当成剧情总结。
 

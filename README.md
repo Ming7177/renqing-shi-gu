@@ -1,6 +1,8 @@
-# Chen Hansheng Social Skill
+# 人情世故
 
-一个把《我真没想重生啊》中陈汉升的人情世故处事方式，蒸馏成可复用 Codex skill 的实验项目。
+![陈汉生](skill/assets/chen-hansheng.png)
+
+一个把《我真没想重生啊》中陈汉升的人情世故处事方式，蒸馏成可复用 Codex skill 的开源项目。
 
 这个项目不提供小说原文，不提供长段摘录，也不试图替代阅读原书。这里开源的是阅读后的处事模型、场景规则、说话方式和测试题。
 
@@ -38,13 +40,13 @@ docs/
 把 `skill/` 目录复制到你的 Codex skills 目录下，并改名为：
 
 ```text
-chen-hansheng-social
+人情世故
 ```
 
 例如 Windows：
 
 ```powershell
-Copy-Item -Recurse .\skill D:\.codex\skills\chen-hansheng-social
+Copy-Item -Recurse .\skill D:\.codex\skills\人情世故
 ```
 
 然后重启 Codex，让技能重新扫描。
@@ -54,13 +56,13 @@ Copy-Item -Recurse .\skill D:\.codex\skills\chen-hansheng-social
 触发名：
 
 ```text
-$chen-hansheng-social
+$人情世故
 ```
 
 示例：
 
 ```text
-用 $chen-hansheng-social 分析这个场景：我创业初期要去地推，商家不信任我，我该怎么开口？
+用 $人情世故 分析这个场景：我创业初期要去地推，商家不信任我，我该怎么开口？
 ```
 
 ## 触发条件
